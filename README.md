@@ -1,5 +1,8 @@
-<p align="center">  Hey folks, this is Marcus 🎲 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nextmarte" alt="Marcus Ramalho" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nextmarte" alt="Marcus Ramalho" />
+</p>
+
+## Hey folks, this is Marcus 🎲 
 
 I'm just a very curious guy who is passionate about data. Currently, I'm enrolled in a Master's degree in Administration at PPGAd-UFF, where I research real estate investment funds. I have a keen interest in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R and Quarto, but I'm currently expanding my knowledge in machine learning and AI, Python, and SQL. I'm excited to explore the possibilities that data and technology offer in these areas and continually enhance my skills. Feel free to join me on this learning journey as we delve into the world of data-driven solutions.
 
