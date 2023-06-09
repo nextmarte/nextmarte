@@ -28,3 +28,4 @@ I'm just a very curious guy who is passionate about data. Currently, I'm enrolle
 👯 I’m looking to collaborate on data science projects
 
 ![Snake Game](https://github.com/nextmarte/nextmarte/blob/output/github-contribution-grid-snake.svg)
+ 
