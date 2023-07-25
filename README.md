@@ -27,9 +27,5 @@ Currently, I'm enrolled in a Master's degree in Administration at PPGAd-UFF, whe
   <br>
 👯 I’m looking to collaborate on data science projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
  
