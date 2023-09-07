@@ -4,7 +4,7 @@
  
 ## Hey folks, this is Marcus 🎲 
 
-Currently, I'm enrolled in a Master's degree in Administration at PPGAd-UFF, where I research real estate investment funds. I have a keen interest in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R , but I'm currently expanding my knowledge in machine learning and AI, Python, Linux and cloud. 
+Currently, I'm enrolled in a Master's degree in Administration at PPGAd-UFF, where I research real estate investment funds. I have a keen interest in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R , but I'm currently expanding my knowledge in machine learning, Python, Rust. 
 
 
 <div align="center">
@@ -23,7 +23,7 @@ Currently, I'm enrolled in a Master's degree in Administration at PPGAd-UFF, whe
 
 
 
-🌱 I’m currently learning machine learning 
+🌱 I’m currently learning Rust
   <br>
 👯 I’m looking to collaborate on data science projects
 
