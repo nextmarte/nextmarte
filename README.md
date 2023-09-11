@@ -4,7 +4,7 @@
  
 ## Hey folks, this is Marcus 🎲 
 
-Currently, I'm enrolled in a Master's degree in business administration at PPGAd-UFF, where I research real estate investment funds. I'm interested in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R , but I'm currently expanding my knowledge in Rust and functional programming. 
+Currently, I'm enrolled in a Master's degree in business administration at PPGAd-UFF, where I research real estate investment funds. I'm interested in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R , but I'm currently expanding my knowledge in Rust and JavaScript. 
 
 
 <div align="center">
@@ -23,7 +23,7 @@ Currently, I'm enrolled in a Master's degree in business administration at PPGAd
 
 
 
-🌱 I’m currently learning Rust
+🌱 I’m currently learning Rust and JavaScript
   <br>
 👯 I’m looking to collaborate on data science projects
 
