@@ -9,8 +9,8 @@ Currently, I'm enrolled in a Master's degree in business administration at PPGAd
 
 <div align="center">
   <a href="https://github.com/nextmarte">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nextmarte&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextmarte&layout=compact&langs_count=16&theme=Gradient&hide=LUA,SCSS,html,tex,jupyter%20notebook&hide_progress=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nextmarte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextmarte&layout=compact&langs_count=16&theme=radical&hide=LUA,SCSS,html,tex,jupyter%20notebook&hide_progress=true"/>
 <div>
 
     
