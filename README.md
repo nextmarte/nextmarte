@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nextmarte&color=red&style=for-the-badge&label=VISUALIZAÇÕES DESTE PERFIL" alt="Marcus Ramalho" />
+  <img src="https://komarev.com/ghpvc/?username=nextmarte&color=red&style=for-the-badge&label=VISUALIZAÇÕES+DESTE+PERFIL" alt="Marcus Ramalho" />
 </p>
  
 ## Hey folks, this is Marcus 🎲 
