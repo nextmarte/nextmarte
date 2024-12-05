@@ -4,7 +4,7 @@
  
 ## Hey folks, this is Marcus 🎲 
 
-Currently, I'm enrolled in a Master's degree in business administration at PPGAd-UFF, where I research real estate investment funds. I'm interested in applying machine learning to decision support, economics, and knowledge management. In my projects, I primarily use R , but I'm currently expanding my knowledge in Django and JavaScript. 
+Master's in Business Administration from PPGAd-UFF with a focus on Real Estate Investment Trusts (REITs). Current Ph.D. candidate researching data culture in public organizations. Skilled in applying machine learning to decision support, economics, and knowledge management. Proficient in R and experienced in web development using Django and Streamlit.
 
 
 <div align="center">
