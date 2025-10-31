@@ -85,12 +85,6 @@
   <a href="https://www.linkedin.com/in/marcus-ramalho-8a440545/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://orcid.org/0009-0003-9282-7098">
-    <img src="https://img.shields.io/badge/Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="Orcid"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCL1aCShE8iFsqfMqglIFNcw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </p>
 
 ---
