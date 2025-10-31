@@ -12,9 +12,9 @@
 ## 👋 About me  
 
 🎓 **AI Developer & Data Scientist** from Niterói, Brazil 🇧🇷  
-🔬 Researcher exploring **AI Governance** and its applications in public sector innovation.  
-🏛️ Joining the **Ph.D. program at COPPEAD/UFRJ**.  
-💻 **Senior Python Developer** at CID-UFF — building data-driven systems and dashboards with [Django](https://www.djangoproject.com/), [Streamlit](https://streamlit.io/), and [R (Shiny)](https://shiny.posit.co/).  
+🔬 Researcher exploring **AI Governance** and its applications in public and private sectors.  
+🏛️ **Ph.D. student at COPPEAD/UFRJ**.  
+💻 **Data Scientist and Developer** at CID-UFF — building data-driven systems and dashboards with [Django](https://www.djangoproject.com/), [Streamlit](https://streamlit.io/), and [R (Shiny)](https://shiny.posit.co/).  
 👨‍🏫 Professor in UFF’s MBA programs — teaching **Data Science, Git, and Finance with R**.  
 
 > 💬 *"Code, data, and a bit of curiosity can change how we understand the world."*
@@ -27,13 +27,13 @@
 - ⚙️ App development with [Gradio](https://www.gradio.app/), [Streamlit](https://streamlit.io/), and [Django](https://www.djangoproject.com/)  
 - 📊 Data Science with [R](https://www.r-project.org/), [Python](https://www.python.org/), and [Tidymodels](https://www.tidymodels.org/)  
 - 📘 Reproducible research using [Quarto](https://quarto.org/)  
-- 🧠 Research on AI governance frameworks in Latin America  
+- 🧠 Research on AI governance frameworks  
 
 ---
 
 ## 💻 What I’m working on
 
-🚧 **LAGUNA** — Data intelligence system for environmental management at CID-UFF  
+🚧 **LAGUNA** — Data intelligence system for **water quality analysis**  
 🐳 **Dev Container for R & Quarto** — Dockerized workspace for reproducible financial and scientific research  
 📗 Localization project: [*R para Ciência de Dados*](https://pt.r4ds.hadley.nz/) (LatinR 2024)  
 🧩 Participant — *Gradio Agents & MCP Hackathon 2025*  
@@ -100,7 +100,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nextmarte&theme=onedark&no-frame=true&margin-w=10" />
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
