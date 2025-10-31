@@ -73,7 +73,6 @@
 <div align="center">
   <a href="https://github.com/nextmarte">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nextmarte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://streak-stats.demolab.com?user=nextmarte&theme=tokyonight&hide_border=true&t=1"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextmarte&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=tex,lua,scss,html,jupyter%20notebook"/>
   </a>
 </div>
