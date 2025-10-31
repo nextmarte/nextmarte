@@ -25,7 +25,7 @@ Also a **professor at UFF’s MBA programs**, teaching **Data Science, Git, and 
 ### 💻 What I’m working on
 - 🌊 **LAGUNA** — Data intelligence system for environmental management at CID-UFF  
 - 🧱 **Dev Container for R & Quarto** — Dockerized workspace for reproducible financial and scientific research  
-- 📗 Localization project: *R para Ciência de Dados* (LatinR 2024)  
+- 📗 Localization project: [*R para Ciência de Dados*](https://pt.r4ds.hadley.nz/) (LatinR 2024)  
 - 🧩 Participant in the *Gradio Agents & MCP Hackathon 2025*  
 
 ---
