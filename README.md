@@ -59,7 +59,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,django,docker,git,github,vscode,linux, postgresql" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,r,django,docker,git,github,vscode,linux,postgres" /><br/>
   <img src="https://skillicons.dev/icons?i=langchain,rust,html,css,js" />
 </p>
 
