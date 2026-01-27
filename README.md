@@ -46,10 +46,6 @@
 
 🥉 *Top 3 papers in Finance* — XV CASI  
 
-🎓 *Tidymodels Intermediate* — LatinR 2023, Montevideo 🇺🇾  
-
-👨‍🏫 Professor — Executive MBA in Data Science and Corporate Finance (UFF)  
-
 ---
 
 ## 🌱 Currently learning
