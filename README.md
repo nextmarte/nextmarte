@@ -43,8 +43,11 @@
 ## 🏆 Highlights  
 
 🏅 *Top 4 Consumer Track* — [MCP in Action](https://huggingface.co/MCP-1st-Birthday) with [Snowman AI](https://huggingface.co/spaces/MCP-1st-Birthday/snowman-ai)  on GRADIO 1st MCP birthday hackathon
+
 🥉 *Top 3 papers in Finance* — XV CASI  
+
 🎓 *Tidymodels Intermediate* — LatinR 2023, Montevideo 🇺🇾  
+
 👨‍🏫 Professor — Executive MBA in Data Science and Corporate Finance (UFF)  
 
 ---
