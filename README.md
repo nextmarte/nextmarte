@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nextmarte&color=red&style=for-the-badge&label=VISUALIZAÇÕES+DESTE+PERFIL" alt="Marcus Ramalho" />
 </p>
----
  
 ## 👋 About me
  
@@ -19,7 +18,6 @@
  
 > 💬 *"Building bridges between AI, data, and public impact."*
  
----
  
 ## 🧠 What I'm into
  
@@ -30,7 +28,7 @@
 - 🏗️ Data engineering — ETL pipelines & Lakehouse architecture
 - 🏛️ AI Governance frameworks for the public sector
 - 📘 Reproducible research with [Quarto](https://quarto.org/)
----
+
  
 ## 💻 Featured projects
  
@@ -44,7 +42,7 @@
 | 📈 [**PROSPECTA**](https://github.com/nextmarte/Outlook) | Sales opportunity management system — OAuth 2.0, RBAC, sales pipeline with stages and full audit trail | Django • HTMX • PostgreSQL |
 | 🤖 [**Raspa Colab**](https://github.com/nextmarte/raspa_colab) | Automated web scraper for the Colab.re citizen complaints platform | Playwright • BeautifulSoup |
  
----
+
  
 ## 🏆 Highlights
  
@@ -54,7 +52,7 @@
 🥉 **Top 3 papers in Finance** — XV CASI
 🌎 **LatinR 2024** — co-translator of *R para Ciência de Dados* (PT-BR localization of R4DS)
  
----
+
  
 ## 🧰 Tech Stack
  
@@ -64,7 +62,7 @@
 </p>
 **AI & Data:** LangChain • LangGraph • Ollama • Claude • Google Gen AI SDK • RAG • MCP • Whisper • Gradio • Streamlit • Shiny • Tidymodels • n8n
  
----
+
  
 ## 📊 GitHub Stats
  
@@ -74,7 +72,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextmarte&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&hide=tex,lua,scss,html,jupyter%20notebook"/>
   </a>
 </div>
----
+
  
 ## 🌐 Connect with me
  
@@ -92,7 +90,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
----
+
  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nextmarte&theme=onedark&no-frame=true&margin-w=10" />
@@ -101,7 +99,7 @@
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
----
+
  
 <p align="center">
   <i>"Building bridges between AI, data, and public impact."</i>
